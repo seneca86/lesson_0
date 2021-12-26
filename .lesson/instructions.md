@@ -56,6 +56,8 @@ Python is one of the most popular programming languages and is therefore availab
 
 These are all valid alternatives, each with merits on its own, although the recommendation is to stick to Replit or VSCode for practical purposes.
 
+In case you want to install a desktop-based IDE, you will need to install Python itself first. You may download it from the [following link](https://www.python.org/downloads/)
+
 ### Bibliography
 
 Luckily enough, there are excellent Python books out there. We will borrow heavily from them, so credit is due, particularly to the following ones:
