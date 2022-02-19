@@ -37,7 +37,7 @@ Please regard this document as an update on the Syllabus and the source of truth
 | S10 | HW10 | Midterm | Feb 28th 2022 | - |
 | S11 | HW11 | In person | Mar 7th 2022 | Mar 14th 2022 |
 | S12 | HW12 | In person | Mar 14th 2022 | Mar 21th 2022 |
-| S13 | HW13 | In person | Mar 21th 2022 | Mar 28th 2022 |
+| S13 | HW13 | Asynchronous | Mar 21th 2022 | Mar 28th 2022 |
 | S14 | HW14 | In person | Mar 28th 2022 | Apr 4th 2022 |
 | S15 | HW15 | In person | Apr 4th 2022 | Apr 25th 2022 |
 | S16 | HW16 | In person | Apr 25th 2022 | May 9th 2022 |
